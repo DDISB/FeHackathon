@@ -1,3 +1,4 @@
+audio/
 
 .env
 *.env
@@ -12,4 +13,3 @@ dist/
 # IDE
 .vscode/
 hserver/src/config/api.ts
-hserver/src/config/api.example.ts

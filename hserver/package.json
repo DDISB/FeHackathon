@@ -13,7 +13,11 @@
   "dependencies": {
     "axios": "^1.12.2",
     "express": "^5.1.0",
-    "multer": "^2.0.2"
+    "gtts": "^0.2.1",
+    "microsoft-cognitiveservices-speech-sdk": "^1.46.0",
+    "multer": "^2.0.2",
+    "say": "^0.16.0",
+    "speech-synthesis": "^0.3.2"
   },
   "devDependencies": {
     "@types/express": "^5.0.3",
