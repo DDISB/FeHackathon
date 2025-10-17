@@ -13,3 +13,5 @@ dist/
 # IDE
 .vscode/
 hserver/src/config/api.ts
+
+__MACOSX/
