@@ -4,6 +4,10 @@ import react from "@vitejs/plugin-react";
 
 export default defineConfig({
   plugins: [react()],
+  server: {
+    host: '0.0.0.0', // Разрешает доступ со всех IP
+    port: 3000, // Можно указать любой порт
+  }
   // server: {
   //   port: 5173,
   //   proxy: {
